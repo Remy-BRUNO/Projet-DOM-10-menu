@@ -84,7 +84,7 @@ function displayMenu(tabMenu) {
       <div class="product-info">
         <div class="product-title">
           <h4>${item.title}</h4>
-          <p>$ ${item.price}</p>
+          <p>$${item.price}</p>
         </div>
           <p class="product-decs">${item.desc}</p>
       </div>
